@@ -1,0 +1,30 @@
+PHP: funções para...
+ler posts
+ler dados
+receber dados
+receber solicitações
+analizar GET, POST, UPDATE, DELETE, PATCH
+verificar chave única
+modelar dados
+responder solicitações
+  enviar dados
+  enviar posts
+modelar e detalhar erros
+enviar templates
+
+JS: funções para...
+verificar rede
+verificar integridade app (estável, persistente progressivo)
+  verificar js realizar hash
+  carregar app do servidor
+impedir cliques durante carregamento
+impedir links de atualizar
+modificar url atual
+verificar url atual
+verificar se dados para url estão disponíveis/íntegros
+  solicitar dados ao servidor
+  atualizar template página, se necessário
+  coletar, selecionar, filtrar dados para página
+  verificar se existe ação extra a ser executada
+  renderizar página
+  atualizar dados na página

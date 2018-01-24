@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SITE>
+    <PAGE>
+      <TITLE name="HOME" list="false" conteudo='index'>
+        <CONTEUDO aply="false">
+          Titulo visual conteudo principal
+        </CONTEUDO>
+        <MOD pos="1">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="2">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="3">'<\div>mod 01</\div>'</MOD>
+      </TITLE>
+
+      <TITLE name="BLOG" list="true" conteudo="">
+        <CONTEUDO aply="true">
+          Titulo visual conteudo principal
+        </CONTEUDO>
+        <MOD pos="1">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="2">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="3">'<\div>mod 01</\div>'</MOD>
+      </TITLE>
+
+      <TITLE name="SISTEMAS">
+        <CONTEUDO aply="false">
+          Titulo visual conteudo principal
+        </CONTEUDO>
+        <MOD pos="1">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="2">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="3">'<\div>mod 01</\div>'</MOD>
+      </TITLE>
+
+      <TITLE name="CONTATO">
+        <CONTEUDO aply="true">
+          Titulo visual conteudo principal
+        </CONTEUDO>
+        <MOD pos="1">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="2">'<\div>mod 01</\div>'</MOD>
+        <MOD pos="3">'<\div>mod 01</\div>'</MOD>
+      </TITLE>
+
+    </PAGE>
+    <MENU>
+      <MENUITEM index="true">HOME</MENUITEM>
+      <MENUITEM>BLOG</MENUITEM>
+      <MENUITEM>BLOG</MENUITEM>
+      <MENUITEM>SISTEMAS</MENUITEM>
+      <MENUITEM>CONTATO</MENUITEM>
+    </MENU>
+</SITE>

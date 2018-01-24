@@ -1,0 +1,38 @@
+{
+  "sigma":{
+    "site":{
+      "localPosts":15,
+      "saveReadPosts":true,
+      "mainPost":5,
+      "mainPage":3,
+      "mainTemplate":2,
+      "description":"site informativo, relativo smma e órgãos do meio ambiente"
+
+    },
+    "sistema":{
+      "description":"operações e transações de dados referentes a serviços sigma"
+    },
+    "webservice":{
+      "allow":true,
+      "description":"mediante cadastro e chave única, para empresas e consultores"
+    }
+  },
+  "lagoaverde":{
+    "site":{
+      "localPosts":15,
+      "saveReadPosts":true,
+      "mainPost":3,
+      "mainPage":1,
+      "mainTemplate":1,
+      "description":"site da lagoa verde, vinculado à ONG NEMA"
+    },
+    "sistema":{
+      "description":"lagoa verde não possui sistema"
+    },
+    "webservice":{
+      "allow":false,
+      "description":"lagoa verde não possui necessidade de webservice"
+    }
+  }
+
+};
